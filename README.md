@@ -1,5 +1,5 @@
   
- ## PROVA Prática de Visão Computacional (SEL0449/SEL5895 - 2024)
+ ## Introdução ao Processamento Digital de Imagens (SEL0449/SEL5895 - 2024)
  
  Faremos uso desse repositório do Github para disponibilizarmos as provas práticas e vamos utilizar o Google Colab para a execução das mesmas. As provas devem ser feitas individualmente e enviadas para o professor por meio do E-disciplinas. **Não será contabilizada nota para os alunos que não enviarem a prova**. 
 
