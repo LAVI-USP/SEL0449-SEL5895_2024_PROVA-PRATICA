@@ -5,7 +5,7 @@
 
 ### PROVAS PRÁTICAS
 
- - [Prova Prática 1 (PP1)](PP1/Prova_prática_SEL0449_SEL5895_2024.ipynb)
+ - [Prova Prática 2 (PP2)](PP2/Prova_Prática_2_SEL0449_SEL5895_2024.ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
