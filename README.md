@@ -5,7 +5,7 @@
 
 ### PROVAS PRÁTICAS
 
- - [Prova Prática Recuperação (PPR)](PPR/Prova_Prática_Recuperação_SEL0449_SEL5895_2024.ipynb)
+ - [Prova Prática Recuperação (PPR)](PPR/Prova_Prática_Recuperacao_SEL0449_SEL5895_(2024).ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
